@@ -10,5 +10,9 @@ This is serverless/restful API built using Flask.
 4. set FLASK_APP=app.py
 5. set FLASK_ENV=development
 6. flask run
-7. zappa deploy dev
-8. zappa update dev
+
+## Deployment
+
+1. pip install zappa
+2. zappa deploy dev
+3. zappa update dev
