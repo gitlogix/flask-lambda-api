@@ -2,8 +2,8 @@
 
 This is serverless/restful API built using Flask.
 
+## Running scheme
 
-Running scheme
 1. py -3 -m venv env
 2. env\scripts\activate
 3. pip install flask
