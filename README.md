@@ -13,6 +13,7 @@ This is serverless/restful API built using Flask.
 
 ## Deployment
 
+0. Configure AWS-CLI ["https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html"]
 1. pip install zappa
 2. zappa deploy dev
 3. zappa update dev
